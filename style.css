@@ -44,6 +44,9 @@ html{
     position: sticky;
     top: 0;
     z-index: 999;
+    background-color : var(--warna-putih);
+    box-shadow: 2px 4px 20px rgba(53, 53, 53, 0.308);
+    border-radius: 1rem;
 }
 
 .h1-text-header{
@@ -729,3 +732,4 @@ html{
     }
 
 }
+
